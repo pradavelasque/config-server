@@ -2,6 +2,4 @@ spring.application.name = exempleFormation
 spring.mvc.view.prefix = /WEB-INF/views/dev/
 spring.mvc.view.suffix= .jsp
 
-test=pagef2
-
-  
+test=pagef213
